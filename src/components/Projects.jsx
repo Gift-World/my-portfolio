@@ -15,18 +15,18 @@ const projects = [
   {
     title: "Shopping List",
     description: "An application where a user is able to add items to a shopping list , delete unwanted items, and mark item purchased.This application also enables the user to easily write a shopping list and avoid the work of writing the items on paper and is easy for reference.",
-    tech: ["React", "D3.js", "Firebase", "Tailwind"],
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=300&fit=crop",
-    github: "https://github.com",
+    tech: ["Javascript", "CSS"],
+    image: "https://images.unsplash.com/photo-1623265301442-f4a98db77ab4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2hvcHBpbmclMjBsaXN0fGVufDB8fDB8fHww",
+    github: "https://github.com/Gift-World/code-challenge-2",
     link: "#",
     featured: true
   },
   {
-    title: "AI Chat Application",
-    description: "Real-time chat application powered by AI for automated customer support and engagement.",
-    tech: ["React", "Socket.io", "OpenAI", "PostgreSQL"],
-    image: "https://images.unsplash.com/photo-1587560699334-cc4ff634909a?w=500&h=300&fit=crop",
-    github: "https://github.com",
+    title: "Gamers Hub",
+    description: "This application allows users to search for games and be able to add them as their favourites",
+    tech: ["Javascript","CSS"],
+    image: "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z2FtaW5nfGVufDB8fDB8fHww",
+    github: "https://github.com/Gift-World/Gamers-Hub",
     link: "#",
     featured: true
   }
