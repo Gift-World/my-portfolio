@@ -4,21 +4,30 @@ import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 
 const projects = [
   {
-    title: "Movie Theatre",
-    description: "This application allows users to purchase movie tickets from the theatre.",
+    title: "Flatiron Bank",
+    description: "This application enables users to add transactions to the application.",
     tech: ["Javascript", "Node.js"],
-    image: "https://images.unsplash.com/photo-1502033491742-0e11fb057e16?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bW92aWUlMjB0aGVhdHJlfGVufDB8fDB8fHww",
-    github: "https://github.com/Gift-World/Movie-Theatre",
-    link: "#",
+    image: "https://images.unsplash.com/photo-1554209721-7e096fb52635?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFuayUyMHRyYW5zYWN0aW9uc3xlbnwwfHwwfHx8MA%3D%3D",
+    github: "https://github.com/Gift-World/Bank-of-Flatiron",
+    link: "https://bank-of-flatiron-seven-khaki.vercel.app/",
+    featured: true
+  },
+  {
+    title: "Lost and Found",
+    description: "A collaboration of making an inventory management system for items that have been lost and found",
+    tech: ["React","Python","Flask"],
+    image: "https://media.istockphoto.com/id/1409792771/photo/the-text-lost-and-found-appears-on-torn-paper-on-white-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=74_n58ZhDcJVy1dwqdFh6mWw5ppf6cK3wKjDzQBIgtM=",
+    github: "https://github.com/Gift-World/Moringa-Lost-And-Found",
+    link: "https://moringa-lost-and-found.vercel.app/",
     featured: true
   },
   {
     title: "Shopping List",
     description: "An application where a user is able to add items to a shopping list , delete unwanted items, and mark item purchased.This application also enables the user to easily write a shopping list and avoid the work of writing the items on paper and is easy for reference.",
-    tech: ["Javascript", "CSS"],
+    tech: ["Javascript"],
     image: "https://images.unsplash.com/photo-1623265301442-f4a98db77ab4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2hvcHBpbmclMjBsaXN0fGVufDB8fDB8fHww",
     github: "https://github.com/Gift-World/code-challenge-2",
-    link: "#",
+    link: "https://gift-world.github.io/code-challenge-2/",
     featured: true
   },
   {
@@ -27,7 +36,7 @@ const projects = [
     tech: ["Javascript","CSS"],
     image: "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z2FtaW5nfGVufDB8fDB8fHww",
     github: "https://github.com/Gift-World/Gamers-Hub",
-    link: "#",
+    link: "https://gamers-hub-black.vercel.app/",
     featured: true
   }
 ];
