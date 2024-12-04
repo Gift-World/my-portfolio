@@ -19,7 +19,7 @@ export default function Header() {
           <a href="#contact" className="text-textPrimary hover:text-secondary transition-colors">Contact</a>
           
           <div className="flex gap-4">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-textPrimary hover:text-secondary transition-colors">
+            <a href="https://github.com/Gift-World" target="_blank" rel="noopener noreferrer" className="text-textPrimary hover:text-secondary transition-colors">
               <FaGithub size={20} />
             </a>
             <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-textPrimary hover:text-secondary transition-colors">

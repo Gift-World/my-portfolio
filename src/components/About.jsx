@@ -33,7 +33,7 @@ export default function About() {
                 Here are a few technologies I've been working with recently:
               </p>
               <ul className="grid grid-cols-2 gap-2 mt-4">
-                {['JavaScript ', 'React', 'Node.js',  'Tailwind CSS', 'Python','Flask'].map((tech, index) => (
+                {['JavaScript ', 'React', 'Node.js',  'Tailwind CSS', 'Python','Flask','PostgreSql','SQlite'].map((tech, index) => (
                   <motion.li
                     key={tech}
                     initial={{ opacity: 0, x: -20 }}

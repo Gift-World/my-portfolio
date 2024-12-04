@@ -36,11 +36,11 @@ export default function Contact() {
             className="space-y-8"
           >
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:your.giftworld325@gmail.com"
               className="inline-flex items-center gap-2 px-8 py-4 bg-secondary/10 text-secondary hover:bg-secondary/20 transition-colors rounded-lg text-lg"
             >
               <FaEnvelope />
-              <span>Say Hello</span>
+              <span>Reach Out</span>
             </a>
             
             <div className="flex justify-center gap-6 mt-12">
