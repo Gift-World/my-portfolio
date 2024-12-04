@@ -22,19 +22,18 @@ export default function About() {
             <h2 className="text-3xl font-bold text-textPrimary mb-6">About Me</h2>
             <div className="space-y-4 text-textSecondary">
               <p>
-                Hello! I'm John, a passionate software developer based in New York City. 
+                Hello! I'm Charles, a passionate software developer based in Nairobi, Kenya. 
                 I enjoy creating things that live on the internet, whether that be websites, 
                 applications, or anything in between.
               </p>
               <p>
-                My journey in web development started back in 2018 when I decided to try 
-                customizing a Wordpress theme. That experience taught me a lot about HTML & CSS!
+                My journey in web development started years back in highschool when I started to have interest in the tech world. 
               </p>
               <p>
                 Here are a few technologies I've been working with recently:
               </p>
               <ul className="grid grid-cols-2 gap-2 mt-4">
-                {['JavaScript (ES6+)', 'React', 'Node.js', 'TypeScript', 'Tailwind CSS', 'AWS'].map((tech, index) => (
+                {['JavaScript ', 'React', 'Node.js',  'Tailwind CSS', 'Python','Flask'].map((tech, index) => (
                   <motion.li
                     key={tech}
                     initial={{ opacity: 0, x: -20 }}
@@ -60,7 +59,7 @@ export default function About() {
               >
                 <div className="w-64 h-64 rounded-lg overflow-hidden">
                   <img
-                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+                    src="src/assets/giftimage.jpg"
                     alt="Profile"
                     className="w-full h-full object-cover"
                   />
