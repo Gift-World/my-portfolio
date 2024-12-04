@@ -58,11 +58,11 @@ export default function About() {
                 className="relative"
               >
                 <div className="w-64 h-64 rounded-lg overflow-hidden">
-                  <img
+                  {/* <img
                     src="giftimage.jpg"
                     alt="Profile"
                     className="w-full h-full object-cover"
-                  />
+                  /> */}
                 </div>
                 <div className="absolute inset-0 border-2 border-secondary rounded-lg transform translate-x-4 translate-y-4 -z-10"></div>
               </motion.div>

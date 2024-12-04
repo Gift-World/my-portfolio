@@ -35,7 +35,7 @@ export default function Hero() {
           >
             <TypeAnimation
               sequence={[
-                'I am a full stack developer ',
+                'I am a full-stack developer ',
                 2000,
                 'I develop well interactive web applications',
                 2000,
