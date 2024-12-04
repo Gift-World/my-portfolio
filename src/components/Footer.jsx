@@ -17,9 +17,7 @@ export default function Footer() {
       <li className="flex justify-center items-center w-12 h-12 rounded-full border border-[#1aeeef] hover:bg-[#1aeeef] transition duration-500">
         <a href="#"><FaInstagram size={20}/></a>
       </li>
-      <li className="flex justify-center items-center w-12 h-12 rounded-full border border-[#1aeeef] hover:bg-[#1aeeef] transition duration-500">
-        <a href="#"><i className="bx bxl-tiktok text-white text-xl"></i></a>
-      </li>
+     
     </ul>
     <div>
       <img
