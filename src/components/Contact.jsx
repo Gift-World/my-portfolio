@@ -9,9 +9,8 @@ export default function Contact() {
   });
 
   const socialLinks = [
-    { icon: FaLinkedin, href: "https://linkedin.com", label: "LinkedIn" },
-    { icon: FaGithub, href: "https://github.com", label: "GitHub" },
-    { icon: FaTwitter, href: "https://twitter.com", label: "Twitter" },
+    { icon: FaLinkedin, href: "https://www.linkedin.com/in/charles-ang-ila-b83b2733a/", label: "LinkedIn" },
+    { icon: FaGithub, href: "https://github.com/Gift-World", label: "GitHub" },
   ];
 
   return (

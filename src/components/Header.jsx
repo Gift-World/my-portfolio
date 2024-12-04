@@ -22,7 +22,7 @@ export default function Header() {
             <a href="https://github.com/Gift-World" target="_blank" rel="noopener noreferrer" className="text-textPrimary hover:text-secondary transition-colors">
               <FaGithub size={20} />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-textPrimary hover:text-secondary transition-colors">
+            <a href="https://www.linkedin.com/in/charles-ang-ila-b83b2733a/" target="_blank" rel="noopener noreferrer" className="text-textPrimary hover:text-secondary transition-colors">
               <FaLinkedin size={20} />
             </a>
             
