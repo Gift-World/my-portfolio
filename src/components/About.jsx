@@ -59,7 +59,7 @@ export default function About() {
               >
                 <div className="w-64 h-64 rounded-lg overflow-hidden">
                   <img
-                    src="src/assets/giftimage.jpg"
+                    src="giftimage.jpg"
                     alt="Profile"
                     className="w-full h-full object-cover"
                   />
