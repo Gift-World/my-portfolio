@@ -25,9 +25,7 @@ export default function Header() {
             <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-textPrimary hover:text-secondary transition-colors">
               <FaLinkedin size={20} />
             </a>
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-textPrimary hover:text-secondary transition-colors">
-              <FaTwitter size={20} />
-            </a>
+            
           </div>
         </nav>
       </div>
